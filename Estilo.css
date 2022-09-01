@@ -1,0 +1,45 @@
+.Titulo{
+
+ /*background-color: blueviolet;*/
+
+font-family: 'Aboreto';
+font-variant: small-caps;
+text-align: center;
+font-size: 25px;
+padding-top: 5px;
+}
+.Pines{
+	font-size: 15px;
+/*font-family: 'aboreto','arial';*/
+font-family: 'Quicksand', sans-serif;
+padding-left: 5px;
+
+
+}
+/*
+
+
+*/
+#OrganizaParrafo{
+	padding-top: 30px;
+	padding-left: 20px;
+    font-family: 'aboreto';
+    font-size: 10px	;
+	text-align: left;
+
+}
+#TextoPresentacion{
+	/*font-variant: small-caps; */
+	font-size: 20px;
+	font-family: 'PT Sans Narrow', sans-serif;
+	margin: 5px;
+}
+.TablaLenguajes{
+	padding-top: 5px;
+	padding-left: 15px;
+	font-size: 15px;
+/*font-family: 'aboreto','arial';*/
+font-family: 'Quicksand', sans-serif;
+
+}
+
